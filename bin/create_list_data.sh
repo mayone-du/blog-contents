@@ -13,7 +13,7 @@ for ARTICLE in ${ARTICLE_LIST[@]}; do
   # echo $DESCRIPTION_KEY_AND_VALUE
 done
 
-TITLES=($(grep "title: " ./articles/*))
+TITLES=($(grep -m 1 "title: " ./articles/*))
 A=$(sed -e "s/title: //g" -n 1 ./articles/first.md)
-echo $TITLES
+echo $TITLES > ./meta/list_data.json
 echo $A
