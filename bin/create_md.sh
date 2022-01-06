@@ -1,3 +1,7 @@
 #!/bin/bash
 DATE=`date +%Y-%m-%d`
-cp ./template/TEMPLATE.md ./articles && mv ./articles/TEMPLATE.md ./articles/$DATE.md 
+YEAR=`date +%Y`
+if [ ! -d "./articles/${YEAR}" ]; then
+  mkdir -p ./articles/${YEAR}
+fi
+cp ./template/TEMPLATE.md ./articles && mv ./articles/TEMPLATE.md ./articles/$YEAR/$DATE.md 
