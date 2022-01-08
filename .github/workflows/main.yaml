@@ -15,3 +15,5 @@ jobs:
       - run: npx prettier --write meta/list_data.json
       - run: chmod 777 ./bin/create_list_data.sh
       - run: ./bin/create_list_data.sh
+      - name: commit meta
+        run: ./bin/git.sh
