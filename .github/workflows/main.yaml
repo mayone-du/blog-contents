@@ -8,13 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          node-version: "16"
-      - run: npm install prettier
-      - run: npx prettier --write meta/list_data.json
       - run: chmod 777 ./bin/create_list_data.sh
-      - run: chmod 777 ./bin/git.sh
       - run: ./bin/create_list_data.sh
-      - name: commit meta
-        run: ./bin/git.sh
