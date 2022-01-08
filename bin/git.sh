@@ -7,3 +7,4 @@ if ! git diff --exit-code --quiet; then
   git commit -m "update: meta by bot"
   git push
 fi
+git rm /node_modules/ -r
