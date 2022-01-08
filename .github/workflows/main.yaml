@@ -13,7 +13,7 @@ jobs:
           node-version: "16"
       - run: npm install prettier
       - run: npx prettier --write meta/list_data.json
-      - run: chmod 777 ./bin/create_list_data.sh
+      - run: chmod 777 ./bin/create_list_data.sh ./bin/git.sh
       - run: ./bin/create_list_data.sh
       - name: commit meta
         run: ./bin/git.sh
