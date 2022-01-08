@@ -11,7 +11,7 @@ for ARTICLE in ${ARTICLE_LIST[@]}; do
   TITLE=$(grep -m 1 "title: " ${ARTICLE_PATH} | sed -e "s/title: //g")
   DESCRIPTION=$(grep -m 1 "description: " ${ARTICLE_PATH} | sed -e "s/description: //g")
   CREATEDAT=$(echo ${ARTICLE} | sed -e "s/\.[^\.]*$//")
-  JSON+="{\"title\": \"${TITLE}\", \"description\": \"${DESCRIPTION}\", \"createdAt\": \"${CREATEDAT}\"}"
+  JSON+="{\"title\": \"${TITLE}\", \"description\": \"${DESCRIPTION}\", \"created_at\": \"${CREATEDAT}\"}"
   if [ ${#ARTICLE_LIST[@]} != $INDEX ]; then
     JSON+=","
   fi
