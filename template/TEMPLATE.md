@@ -1,10 +1,10 @@
 ---
-title: TEMPLATE
-description: TEMPLATE README
-emoji: ☺️
+title: 最近思うこと
+description: ただの日記。
+emoji: 🤧
 is_published: false
 ---
 
-# TEMPLATE
+# 最近思うこと
 
-## Description
+## やりたいこと

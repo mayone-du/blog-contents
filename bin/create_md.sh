@@ -4,4 +4,8 @@ YEAR=`date +%Y`
 if [ ! -d "./articles/${YEAR}" ]; then
   mkdir -p ./articles/${YEAR}
 fi
-cp ./template/TEMPLATE.md ./articles && mv ./articles/TEMPLATE.md ./articles/$YEAR/$DATE.md 
+if [ ! -f "./articles/${YEAR}/${DATE}.md" ]; then
+  cp ./template/TEMPLATE.md ./articles && mv ./articles/TEMPLATE.md ./articles/$YEAR/$DATE.md 
+else
+  echo "File already exists"
+fi
