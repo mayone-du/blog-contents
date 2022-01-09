@@ -13,7 +13,7 @@ for ARTICLE in ${ARTICLE_LIST[@]}; do
   IS_PUBLISHED=$(grep -m 1 "is_published: " ${ARTICLE_PATH} | sed -e "s/is_published: //g")
   CREATED_AT=$(echo ${ARTICLE} | sed -e "s/\.[^\.]*$//")
 
-  JSON+="{\"title\": \"${TITLE}\", \"description\": \"${DESCRIPTION}\", \"emoji\": \"${EMOJI}\", \"is_published\": \"${IS_PUBLISHED}\", \"created_at\": \"${CREATED_AT}\"}"
+  JSON+="{\"title\": \"${TITLE}\", \"description\": \"${DESCRIPTION}\", \"emoji\": \"${EMOJI}\", \"is_published\": ${IS_PUBLISHED}, \"created_at\": \"${CREATED_AT}\"}"
   if [ ${#ARTICLE_LIST[@]} != $INDEX ]; then
     JSON+=","
   fi
