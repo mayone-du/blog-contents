@@ -1,7 +1,7 @@
 {
   "scripts": {
     "prepare": "husky install",
-    "lint": "prettier --write ./meta/list_data.json"
+    "lint": "prettier --write ./meta/*.json"
   },
   "lint-staged": {
     "*.json": "npm run lint"

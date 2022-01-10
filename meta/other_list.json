@@ -1,0 +1,9 @@
+[
+  {
+    "title": "自分の歴史的エピソードのメモ",
+    "description": "他人と話す際に、自分のエピソードとかあると話のネタに困らなそうだけど忘れがちだからメモしていく",
+    "emoji": "🧬",
+    "is_published": false
+  },
+  { "title": "プロフィール", "description": "まよねーづのプロフィール", "emoji": "🧬", "is_published": true }
+]
