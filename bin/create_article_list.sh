@@ -17,7 +17,7 @@ for ARTICLE in ${ARTICLE_LIST[@]}; do
       JSON+="\"${ATTRIBUTES}\": ${VALUE}"
     elif [ "${ATTRIBUTES}" == "created_at" ]; then
     # .mdを削除
-      JSON+="\"${ATTRIBUTES}\": \"${ARTICLE:0:8}\""
+      JSON+="\"${ATTRIBUTES}\": \"${ARTICLE:0:10}\""
     else
       JSON+="\"${ATTRIBUTES}\": \"${VALUE}\""
     fi
