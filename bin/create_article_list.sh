@@ -15,6 +15,8 @@ for ARTICLE in ${ARTICLE_LIST[@]}; do
     VALUE=$(grep -m 1 "${ATTRIBUTES}: " ${ARTICLE_PATH} | sed -e "s/${ATTRIBUTES}: //g")
     if [ "${ATTRIBUTES}" == "is_published" ]; then
       JSON+="\"${ATTRIBUTES}\": ${VALUE}"
+    elif [ "${ATTRIBUTES}" == "created_at" ]; then
+      JSON+="\"${ATTRIBUTES}\": \"${ARTICLE}\""
     else
       JSON+="\"${ATTRIBUTES}\": \"${VALUE}\""
     fi
