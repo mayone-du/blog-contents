@@ -2,4 +2,5 @@
 . "$(dirname "$0")/_/husky.sh"
 
 ./bin/create_list_data.sh
+./bin/create_others_list.sh
 npx lint-staged

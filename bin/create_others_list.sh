@@ -1,12 +1,11 @@
 #!/bin/bash
-ARTICLE_LIST=($(ls -R ./articles | grep .md$))
+ARTICLE_LIST=($(ls -R ./others | grep .md$))
 META_ATTRIBUTES=(title description emoji is_published)
 INDEX=0
 JSON="["
 for ARTICLE in ${ARTICLE_LIST[@]}; do
   let INDEX++
-  YEAR=${ARTICLE:0:4}
-  ARTICLE_PATH="./articles/${YEAR}/${ARTICLE}"
+  ARTICLE_PATH="./others/${ARTICLE}"
 
   JSON+="{"
   for ATTRIBUTES in ${META_ATTRIBUTES[@]}; do
