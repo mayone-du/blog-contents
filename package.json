@@ -3,9 +3,6 @@
     "prepare": "husky install",
     "lint": "prettier --write ./meta/*.json"
   },
-  "lint-staged": {
-    "*.json": "npm run lint"
-  },
   "devDependencies": {
     "husky": "^7.0.4",
     "lint-staged": "^12.1.7",

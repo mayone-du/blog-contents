@@ -3,4 +3,4 @@
 
 ./bin/create_article_list.sh
 ./bin/create_other_list.sh
-npx lint-staged
+npm run lint
