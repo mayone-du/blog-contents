@@ -10,7 +10,6 @@ for ARTICLE in ${ARTICLE_LIST[@]}; do
   JSON+="{"
   for ATTRIBUTES in ${META_ATTRIBUTES[@]}; do
     TMP=$(grep -m 1 "${ATTRIBUTES}: " ${ARTICLE_PATH} | sed -e "s/${ATTRIBUTES}: //g")
-    JSON
   done
   JSON+="}"
 
