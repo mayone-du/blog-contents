@@ -1,6 +1,6 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-./bin/create_list_data.sh
-./bin/create_others_list.sh
+./bin/create_article_list.sh
+./bin/create_other_list.sh
 npx lint-staged
