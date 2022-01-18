@@ -3,12 +3,13 @@ title: プロフィール
 description: まよねーづのプロフィール
 emoji: 🧬
 is_published: true
+updated_at: 2022-01-17
 ---
 
 # まよねーづ is 誰
 
 name: Ishikawa Yuki
-birthday: 2002/03/11
+birthday: 2002-03-11
 
 ## 経歴
 
