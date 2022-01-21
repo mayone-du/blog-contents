@@ -24,14 +24,14 @@
     "title": "自分のこれまでを振り返る①",
     "description": "自分のこれまでを振り返る記事①です！この記事では高校在学中〜高校卒業後の独学までを書きます",
     "emoji": "🏯",
-    "is_published": false,
+    "is_published": true,
     "created_at": "2022-01-20"
   },
   {
     "title": "自分のこれまでを振り返る②",
     "description": "自分のこれまでを振り返る記事②です！この記事ではプログラミングの独学を開始したあとから、Web制作のバイトを辞めるまでを書きます",
     "emoji": "🏯",
-    "is_published": false,
+    "is_published": true,
     "created_at": "2022-01-21"
   },
   {
