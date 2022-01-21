@@ -1,6 +1,7 @@
 {
   "scripts": {
     "prepare": "husky install",
+    "new:article": "./bin/create_md.sh",
     "lint": "prettier --write ./meta/*.json"
   },
   "devDependencies": {
