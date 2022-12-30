@@ -96,5 +96,12 @@
     "emoji": "🍋",
     "is_published": false,
     "created_at": "2022-05-05"
+  },
+  {
+    "title": "2022年振り返り",
+    "description": "書き納め",
+    "emoji": "🐯",
+    "is_published": true,
+    "created_at": "2022-12-31"
   }
 ]
