@@ -1,70 +1,23 @@
 ---
-title: プロフィール
-description: まよねーづのプロフィール
+title: About Me
+description: Ishikawa Yuki
 emoji: 🧬
 is_published: true
-updated_at: 2022-01-17
+updated_at: 2023-01-08
 ---
 
-# まよねーづ is 誰
+# About Me
 
-name: Ishikawa Yuki  
-birthday: 2002-03-11
+## ❤️‍🔥 Favorites things
 
-## 経歴
+- Enginnering
 
-## 趣味、最近ハマっているもの
+## 🤢 Dislikes
 
-- ゲーム全般(ボドゲなども含む)
-- ボルダリング(まだ 2 回しかやってないけどもっとやりたい)
-- 食事
-- 愛犬
+- ...
 
-## スキル
+## 💻 Skill set
 
-- HTML / CSS
-- JavaScript / TypeScript
-- React / Next.js
-- Apollo Client
-- GraphQL
-- Python / Django
-- Rust
-- Docker
-- Git / GitHub
+- HTML / CSS / JavaScript
 
-インフラはまだ苦手意識があり、基礎の基礎くらいで全然さわれていないです。。
-
-## 特技
-
-- 入浴中にうずまきをつくること
-- 他人の話を聞くこと
-- ゲーム全般
-
-## 好きなもの、苦手なもの
-
-**スコ**
-
-- ｽｯｺｺｺ
-- ﾈｯｺ、ｲｯﾇ
-- プログラミング
-- 米津玄師
-- 食べること
-- チーズ
-
-**苦手**
-
-- タバコ
-- くさいもの、大きい音とか
-- 汚いおじさん
-- デリカシーがない人、オラオラ イケイケ系のやんちゃな人
-- 小さい声をききとること（自分耳が悪いのか、小さい声とか早口だと全然聞き取れなくて何回も聞き直しちゃいます）
-
-## どんな人間を目指しているか
-
-懊悩中
-
-## どんな人間か
-
-- HSP
-
-考え中
+## 📝 ... Now Writing ... 📝
