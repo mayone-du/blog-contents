@@ -8,16 +8,22 @@ updated_at: 2023-01-08
 
 # About Me
 
+Ishikawa Yuki
+
+2022/03/11
+
 ## ❤️‍🔥 Favorites things
 
 - Enginnering
+- 🍻
 
 ## 🤢 Dislikes
 
-- ...
+- 🚬
 
 ## 💻 Skill set
 
-- HTML / CSS / JavaScript
-
-## 📝 ... Now Writing ... 📝
+- HTML
+- CSS
+- JavaScript / TypeScript / Node.js
+- React / Next.js
