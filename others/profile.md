@@ -23,7 +23,9 @@ Ishikawa Yuki
 
 ## 💻 Skill set
 
-- HTML
-- CSS
 - JavaScript / TypeScript / Node.js
 - React / Next.js
+- React Native / Expo
+- GraphQL
+- Astro
+- Prisma
