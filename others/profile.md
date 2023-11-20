@@ -2,30 +2,29 @@
 title: About Me
 description: Ishikawa Yuki
 emoji: 🧬
+emoji_image: dna.png
 is_published: true
 updated_at: 2023-01-08
 ---
 
-# About Me
+# プロフィール
 
 Ishikawa Yuki
 
-2022/03/11
+2022/03/11 生まれ
 
-## ❤️‍🔥 Favorites things
+## 好きな〇〇
 
-- Enginnering
-- 🍻
+- 米津玄師
+- 美味しいもの食べること
+- エンジニアリング
 
-## 🤢 Dislikes
+## 嫌いな〇〇
 
 - 🚬
+- 怒る人
+- 虫
 
-## 💻 Skill set
+## 経歴
 
-- JavaScript / TypeScript / Node.js
-- React / Next.js
-- React Native / Expo
-- GraphQL
-- Astro
-- Prisma
+wip
