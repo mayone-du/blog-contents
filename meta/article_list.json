@@ -3,7 +3,6 @@
     "title": "ishikawayuki-v1 開設",
     "description": "ブログのリニューアル",
     "emoji": "🐕",
-    "emoji_image": "dna.png",
     "is_published": true,
     "created_at": "2023-01-08"
   },
@@ -11,7 +10,6 @@
     "title": "やりたいことなさすぎ問題",
     "description": "趣味をくれ",
     "emoji": "😕",
-    "emoji_image": "confused-face.png",
     "is_published": true,
     "created_at": "2023-02-11"
   },
@@ -19,7 +17,6 @@
     "title": "チーズケーキアイスを謳ってるのに食べたらめっちゃホワイトチョコなやつ、許せん",
     "description": "バレンタインでも変わらない日常を過ごしています",
     "emoji": "🍫",
-    "emoji_image": "chocolate-bar.png",
     "is_published": true,
     "created_at": "2023-02-14"
   },
@@ -27,7 +24,6 @@
     "title": "OSSでやらかした話",
     "description": "ちゃんと動作確認とかしようね（n回目）",
     "emoji": "😇",
-    "emoji_image": "smiling-face-with-halo.png",
     "is_published": true,
     "created_at": "2023-03-03"
   }
