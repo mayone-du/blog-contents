@@ -2,7 +2,6 @@
 title: About Me
 description: Ishikawa Yuki
 emoji: 🧬
-emoji_image: dna.png
 is_published: true
 updated_at: 2023-01-08
 ---

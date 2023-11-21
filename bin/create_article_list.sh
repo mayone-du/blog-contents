@@ -1,6 +1,6 @@
 #!/bin/bash
 ARTICLE_LIST=($(ls -R ./articles | grep .md$))
-META_ATTRIBUTES=(title description emoji emoji_image is_published created_at)
+META_ATTRIBUTES=(title description emoji is_published created_at)
 FILE_INDEX=0
 ATTRIBUTES_INDEX=0
 JSON="["
