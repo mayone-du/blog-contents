@@ -33,5 +33,12 @@
     "emoji": "📝",
     "is_published": true,
     "created_at": "2023-11-22"
+  },
+  {
+    "title": "Microsoft TeamsのFluent Emojiが好きすぎる",
+    "description": "こういうの作りたい",
+    "emoji": "📕",
+    "is_published": true,
+    "created_at": "2023-11-23"
   }
 ]
