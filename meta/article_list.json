@@ -47,5 +47,12 @@
     "emoji": "🍖",
     "is_published": true,
     "created_at": "2023-11-24"
+  },
+  {
+    "title": "ピアノ弾ける人いいよな",
+    "description": "音楽の才能欲しい",
+    "emoji": "🎹",
+    "is_published": true,
+    "created_at": "2023-11-25"
   }
 ]
