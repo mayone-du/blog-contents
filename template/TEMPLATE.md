@@ -1,10 +1,10 @@
 ---
-title: 最近思うこと
-description: ただの日記。
+title: タイトル
+description: 説明
 emoji: 🤧
-is_published: false
+is_published: true
 ---
 
-# 最近思うこと
+# タイトル
 
-## やりたいこと
+## おわり
