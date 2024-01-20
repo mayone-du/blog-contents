@@ -126,5 +126,12 @@
     "is_published": true,
     "created_at": "2024-01-19"
   },
-  { "title": "最近の出来事", "description": "日常", "emoji": "✍️", "is_published": true, "created_at": "2024-01-20" }
+  { "title": "最近の出来事", "description": "日常", "emoji": "✍️", "is_published": true, "created_at": "2024-01-20" },
+  {
+    "title": "「〇〇で好き」構文について",
+    "description": "人間の嫌なとこ全て詰め込んだような構文で好き",
+    "emoji": "😡",
+    "is_published": true,
+    "created_at": "2024-01-21"
+  }
 ]
