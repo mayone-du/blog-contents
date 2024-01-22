@@ -133,5 +133,26 @@
     "emoji": "😡",
     "is_published": true,
     "created_at": "2024-01-21"
+  },
+  {
+    "title": "うちの犬、可愛い",
+    "description": "本当は猫派だけどね",
+    "emoji": "🫶",
+    "is_published": true,
+    "created_at": "2024-01-22"
+  },
+  {
+    "title": "憧れ",
+    "description": "尊敬してる人が沢山です",
+    "emoji": "🤧",
+    "is_published": false,
+    "created_at": "2024-01-23"
+  },
+  {
+    "title": "人付き合い",
+    "description": "誰とでも仲良くなれるに越したことないよ",
+    "emoji": "🤧",
+    "is_published": false,
+    "created_at": "2024-01-24"
   }
 ]
