@@ -210,5 +210,12 @@
     "emoji": "🍺",
     "is_published": true,
     "created_at": "2024-03-13"
+  },
+  {
+    "title": "やーーっとジム行った",
+    "description": "1ヶ月半経ってようやく行けました",
+    "emoji": "💪",
+    "is_published": true,
+    "created_at": "2024-03-14"
   }
 ]
