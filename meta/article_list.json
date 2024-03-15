@@ -198,10 +198,10 @@
     "created_at": "2024-03-10"
   },
   {
-    "title": "v22 is available!",
+    "title": "version 22 is available now!",
     "description": "relase note for v22",
     "emoji": "🎂",
-    "is_published": false,
+    "is_published": true,
     "created_at": "2024-03-11"
   },
   {
@@ -217,5 +217,19 @@
     "emoji": "💪",
     "is_published": true,
     "created_at": "2024-03-14"
+  },
+  {
+    "title": "タイムカプセル",
+    "description": "もしくは時限爆弾",
+    "emoji": "🎁",
+    "is_published": true,
+    "created_at": "2024-03-15"
+  },
+  {
+    "title": "病気って認めること",
+    "description": "認めることは負けじゃない",
+    "emoji": "🤧",
+    "is_published": false,
+    "created_at": "2024-03-16"
   }
 ]
