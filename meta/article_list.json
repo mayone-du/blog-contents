@@ -330,5 +330,12 @@
     "is_published": true,
     "created_at": "2024-05-01"
   },
-  { "title": "初夏", "description": "夏が来た", "emoji": "🫠", "is_published": true, "created_at": "2024-05-04" }
+  { "title": "初夏", "description": "夏が来た", "emoji": "🫠", "is_published": true, "created_at": "2024-05-04" },
+  {
+    "title": "雑に書く",
+    "description": "書きたいことだーーっと書き出す",
+    "emoji": "💨",
+    "is_published": true,
+    "created_at": "2024-05-06"
+  }
 ]
