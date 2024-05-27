@@ -337,5 +337,12 @@
     "emoji": "🌲",
     "is_published": true,
     "created_at": "2024-05-06"
+  },
+  {
+    "title": "麻雀デビュー",
+    "description": "前職の先輩たちと麻雀してきた",
+    "emoji": "🀄",
+    "is_published": true,
+    "created_at": "2024-05-26"
   }
 ]
