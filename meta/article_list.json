@@ -351,5 +351,19 @@
     "emoji": "🕸️",
     "is_published": true,
     "created_at": "2024-05-31"
+  },
+  {
+    "title": "2年記念",
+    "description": "念願の猫カフェ",
+    "emoji": "😽",
+    "is_published": true,
+    "created_at": "2024-06-01"
+  },
+  {
+    "title": "あれから約1ヶ月半",
+    "description": "ｶﾀｶﾀｶﾀｶﾀ",
+    "emoji": "🔥",
+    "is_published": true,
+    "created_at": "2024-06-02"
   }
 ]
