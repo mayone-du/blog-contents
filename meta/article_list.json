@@ -379,5 +379,12 @@
     "emoji": "🪄",
     "is_published": true,
     "created_at": "2024-07-09"
+  },
+  {
+    "title": "ぐるみー（仮）の進捗",
+    "description": "定期的に進捗を報告する回",
+    "emoji": "🗓️",
+    "is_published": true,
+    "created_at": "2024-07-15"
   }
 ]
