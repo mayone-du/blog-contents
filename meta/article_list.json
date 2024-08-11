@@ -386,5 +386,19 @@
     "emoji": "🗓️",
     "is_published": true,
     "created_at": "2024-07-15"
+  },
+  {
+    "title": "美しいもの、醜いもの",
+    "description": "適当に。",
+    "emoji": "🌹",
+    "is_published": true,
+    "created_at": "2024-08-04"
+  },
+  {
+    "title": "すべてを真に受ける必要はない",
+    "description": "💩🤬🍆",
+    "emoji": "💩",
+    "is_published": true,
+    "created_at": "2024-08-12"
   }
 ]
