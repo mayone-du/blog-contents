@@ -2,6 +2,16 @@
 
 ## 記事を書く際の手順、フォーマット
 
+### 初回セットアップ（必須）
+
+このリポジトリでは **Husky** を使っています。最初に依存関係を入れて `prepare` を実行する必要があります。
+
+```bash
+npm install
+```
+
+`package.json` の `prepare: husky install` により、`npm install` 時に Husky のセットアップが走ります。
+
 ### 新規記事の作成
 
 基本は `npm run new:article` で作成します（実体は `bin/create_md.sh`）。
