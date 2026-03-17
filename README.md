@@ -1,13 +1,3 @@
-# README.md
+# 個人ブログ記事のDB
 
-## TODO
-
-- Add Diary
-
-- Text Lint
-- Auto Create List Data
-- Add Content Length (text length)
-- Add updated_at meta data
-- Fix husky, shell script
-
-<!-- ![alt](https://url.png) -->
+詳細は `docs/index.md` にあるけど、記事のDB兼個人ブログ用にコミット時にmetadata用のjson生成したりとかそれをブログから直接読んだりとかさせるためのDBリポジトリ的なもの
